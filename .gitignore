@@ -1,0 +1,7 @@
+*.out
+*.img
+*.sif
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
